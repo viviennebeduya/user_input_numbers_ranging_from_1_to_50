@@ -24,7 +24,6 @@ while True:
         print ("Make sure to input numbers only.")
         
 #if invalid, display how many inputted numbers are in the following range:
-
 print ("Here's all your input based on various range:")
 print (f"1-10: {number_per_range[0]}")
 print (f"11-20: {number_per_range[1]}")
